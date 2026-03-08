@@ -1,0 +1,11 @@
+# IntelliJ IDEA Dateien
+.idea/
+*.iml
+out/
+gen/
+
+# macOS Systemdateien
+.DS_Store
+
+# Maven Build-Ordner
+target/
