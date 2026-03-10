@@ -11,7 +11,6 @@ import java.util.Map;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.Scanner;
-
 public class Main {
     static Map<String, Double> wechselkurse = new HashMap<>();
     private static boolean istLive = false;
