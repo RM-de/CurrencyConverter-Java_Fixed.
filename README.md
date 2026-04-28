@@ -36,6 +36,7 @@ Error Handling
 
 
 
-🛠 Setup
 
+
+🛠 Setup
 Das Projekt nutzt Maven. Einfach in IntelliJ öffnen – alle Abhängigkeiten (GSON) laden automatisch!
