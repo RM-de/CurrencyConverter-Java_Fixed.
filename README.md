@@ -38,7 +38,7 @@ Netzwerkschnittstellen zu visualisieren.
 Das Projekt nutzt Maven. Einfach in IntelliJ öffnen – alle Abhängigkeiten (GSON) laden automatisch!
 
 ------------------------------------------------------------------------------------------------------------------------------------
-
+💱 Currency Converter (Java)
 🇺🇸 English
 
 A highly efficient currency calculator with a graphical user interface (Swing) that demonstrates modern 
