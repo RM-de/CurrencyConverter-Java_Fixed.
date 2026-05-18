@@ -39,6 +39,7 @@ Das Projekt nutzt Maven. Einfach in IntelliJ öffnen – alle Abhängigkeiten (G
 
 ------------------------------------------------------------------------------------------------------------------------------------
 💱 Currency Converter (Java)
+
 🇺🇸 English
 
 A highly efficient currency calculator with a graphical user interface (Swing) that demonstrates modern 
